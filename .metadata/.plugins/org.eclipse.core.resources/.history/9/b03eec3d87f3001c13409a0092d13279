@@ -1,0 +1,6 @@
+package javaStudy;
+
+public class MyClass {
+	//	public 리턴타입 메소드명 (매개변수들) { 구현 }
+	
+}
