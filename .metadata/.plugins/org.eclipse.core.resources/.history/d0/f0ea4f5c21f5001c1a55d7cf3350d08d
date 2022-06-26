@@ -1,0 +1,10 @@
+package javaStudy;
+
+public class Bus extends Car {
+
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
