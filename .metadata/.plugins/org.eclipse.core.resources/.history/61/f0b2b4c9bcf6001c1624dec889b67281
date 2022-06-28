@@ -1,0 +1,17 @@
+package javaStudy;
+
+public class InnerExam1 {
+	
+	class Cal {
+		int value = 0;
+		public void plus() {
+			value++;
+		}
+	}
+
+	public static void main(String[] args) {
+		InterExam1 t = InterExam1();
+		
+	}
+
+}
