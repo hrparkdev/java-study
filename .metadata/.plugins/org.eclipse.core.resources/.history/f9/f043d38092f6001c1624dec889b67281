@@ -1,0 +1,17 @@
+package javaStudy;
+
+public class MyCal implements Calculatoer {
+
+	@Override
+	public int plus(int i, int j) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int multiple(int i, int j) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
